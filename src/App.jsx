@@ -57,6 +57,7 @@ const App = () => {
           {/* <TechStack3D /> */}
           <TechStack /> 
           <Services />
+          
           <Qualifications />
           <Experience />
           <Projects />
