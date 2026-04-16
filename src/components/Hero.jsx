@@ -243,7 +243,7 @@ const Hero = () => {
         
         {/* Image */}
         <motion.img
-          src="\src\image\portfolio.png"
+          src="\src\image\portfolio(1).png"
           alt="Profile"
           className="w-full h-full object-cover"
           whileHover={{ scale: 1.15 }}
