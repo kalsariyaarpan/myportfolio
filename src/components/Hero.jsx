@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { motion, useAnimation } from 'framer-motion';
+import portfolioImage from '../image/portfolio (1).png';
 
 // const MAIN_TEXT = 'Creative Designer & Developer';
 const MAIN_TEXT = 'Creative Designer & Developer';
@@ -243,7 +244,7 @@ const Hero = () => {
         
         {/* Image */}
         <motion.img
-          src="\src\image\portfolio(1).png"
+          src={portfolioImage}
           alt="Profile"
           className="w-full h-full object-cover"
           whileHover={{ scale: 1.15 }}
