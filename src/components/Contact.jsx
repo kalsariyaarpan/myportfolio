@@ -19,7 +19,7 @@ const Contact = () => {
   };
 
   const contactMethods = [
-    { icon: '📧', label: 'Email', value: 'arpan@example.com', link: 'mailto:arpan@example.com' },
+    { icon: '📧', label: 'Email', value: 'arpankalsariya@gmail.com', link: 'mailto:arpankalsariya@gmail.com' },
     { icon: '💼', label: 'LinkedIn', value: 'linkedin.com/in/arpan', link: 'https://www.linkedin.com/in/kalsariya-arpan-a474a8379/' },
     { icon: '🐙', label: 'GitHub', value: 'github.com/arpan', link: 'https://github.com/kalsariyaarpan' },
   ];
